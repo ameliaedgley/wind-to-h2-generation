@@ -1,1 +1,2 @@
-# wind-to-h2-generation
+# wind-to-h2-generation  
+Code to convert Metered Volume for wind farm into a hydrogen flow rate, assuming hydrogen generation from an electrolyser. This allows you to determine any storage requirements by seeing how many intervals and how much storage is required when flow rate drops below a desired minimum. This is the source code for the following paper: [Feasibility Assessment into the Use of Hybrid Gas-Hydride Tanks for Use in Improving the Flexibility of Offshore Hydrogen Production Using Wind Power]()
